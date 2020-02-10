@@ -1,4 +1,4 @@
-## Bankrupt Prediction
+## Return Prediction
 
 ### Abstruct
 According to the AAPL's return and related stock return, using Machine Learning, combining LSTM, GRU and Logistic Regression to predict AAPL's future return. 
