@@ -1,7 +1,5 @@
 ## Machine Learning Solution of Titanic Problem
 
-ZHITONG LAI, Oct 2019
-
 ### Problem Description  
 
 It a problem in Kaggle, about the Titanic disaster. Given some basic data of all the people on this ship, we should give a solution to predict a person was survived or not.  
